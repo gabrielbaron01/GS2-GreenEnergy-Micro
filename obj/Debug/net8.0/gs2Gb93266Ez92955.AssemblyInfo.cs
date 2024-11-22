@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gs2Gb93266Ez92955")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87f45ccc3a96e56f000674399fe81280b120adcc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fe6fa56b248a7dd45b3102be3df2d0bf6630a68")]
 [assembly: System.Reflection.AssemblyProductAttribute("gs2Gb93266Ez92955")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gs2Gb93266Ez92955")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
